@@ -8,6 +8,6 @@
 .container{
     width:1000px;
     margin:0 auto;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 </style>

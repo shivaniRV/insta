@@ -1,10 +1,10 @@
 <script setup>
 import "ant-design-vue/dist/antd.css";
-import TimeLine from '../components/TimeLine.vue'
+import Profile from '../components/Profile.vue'
 </script>
 
 <template>
   <main>
- <TimeLine/>
+ <Profile/>
   </main>
 </template>
