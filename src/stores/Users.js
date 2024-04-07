@@ -104,7 +104,7 @@ export const useUserStore = defineStore('users', () => {
     username,
     email
   });
-
+// {{user}}
   const {data: newUser} =await supabase
   .from("users")
   .select()
